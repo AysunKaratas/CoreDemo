@@ -18,6 +18,7 @@ namespace CoreDemo.Controllers
    
         public IActionResult WriterProfile()
         {
+            //deneme
             return View();
         }
      
